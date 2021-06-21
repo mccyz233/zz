@@ -708,3 +708,4 @@ case "$num" in
 	;;
 esac
 fi
+		rm -rf /etc/init.d/brook-pf
